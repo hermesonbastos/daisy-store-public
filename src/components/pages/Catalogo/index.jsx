@@ -1,4 +1,4 @@
-import ProductCard from '../../ProductCard/styles';
+import ProductCard from '../../ProductCard/index';
 import './styles.css';
 
 const Catalogo = () => {
