@@ -1,4 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 * {
   margin: 0px;
   padding: 0px;
+}
+
+.botao {
+  background-color: #C4344C;
 }

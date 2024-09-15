@@ -3,7 +3,9 @@ import './App.css'
 function App() {
 
   return (
-    <div>Daisy Store Public</div>
+    <div>
+      <button className="btn botao">Teste DaisyUI</button>
+    </div>
   )
 }
 
