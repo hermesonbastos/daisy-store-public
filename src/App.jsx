@@ -8,11 +8,11 @@ function App() {
   return (
     <>
       <Navbar/>
-      <Routes>
-        <Route path="/" element={<Catalogo />} />
+        <Routes>
+          <Route path="/" element={<Catalogo />} />
 
-        <Route path="/cart" element={<Carrinho />} />
-      </Routes>
+          <Route path="/cart" element={<Carrinho />} />
+        </Routes>
     </>
   );
 }
