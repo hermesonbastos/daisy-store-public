@@ -16,7 +16,7 @@ const Carrinho = () => {
           <span>Subtotal:</span>
         </div>
         <div className='cart-btn'>
-          <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg">Realizar pedido</button>
+          <button className="btn">Realizar pedido</button>
         </div>
       </div>
   </div>

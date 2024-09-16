@@ -2,7 +2,7 @@ import Pagination from '../../Pagination';
 import ProductCard from '../../ProductCard/index';
 import './styles.css';
 
-const products = [{}, {}, {}]
+const products = [{}, {}, {}, {}, {}, {}, {}, {}]
 
 const Catalogo = () => {
   return <div className='catalogo'>

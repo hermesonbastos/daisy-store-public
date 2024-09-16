@@ -35,15 +35,15 @@ h1{
     gap: 100px;
 }
 
-.btn-xs{
-    background-color: var(--daisy-secondary);
-    color: var(--daisy-primary);
+.btn {
+    background-color: var(--daisy-primary);
+    color: var(--daisy-secondary);
     border-color: var(--daisy-primary);
 }
 
-.btn-xs:hover{
-    color: var(--daisy-secondary);
-    background-color: var(--daisy-primary);
+.btn:hover {
+    background-color: var(--daisy-secondary);
+    color: var(--daisy-primary);
     border-color: var(--daisy-primary);
 }
 

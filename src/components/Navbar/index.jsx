@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div className="navbar bg-base-100">
       <div className="flex-1">
-        <a className="btn-ghost text-xl">Daisy Store</a>
+        <a className="btn-ghost text-xl">Catalogo</a>
       </div>
       <div className="flex-none">
         <div className="dropdown dropdown-end">
