@@ -2,4 +2,17 @@
     padding: 10px;
     font-size: 30px;
     color: var(--daisy-brown);
+    display: flex;
+    flex-direction: column;
+}
+
+.catalog-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.catalog-card{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
