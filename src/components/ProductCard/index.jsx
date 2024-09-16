@@ -1,39 +1,22 @@
+import "./styles.css"
+
 const ProductCard = () => {
-<<<<<<< HEAD
-  return <div>
+  return <div className="catalogo-card">
       <div className="card card-side bg-base-100 shadow-xl">
           <figure>
               <img
-              src="https://img.daisyui.com/images/stock/photo-1635805737707-575885ab0820.webp"
+              src=""
               alt="Movie" />
           </figure>
           <div className="card-body">
-              <h2 className="card-title">New movie is released!</h2>
-              <p>Click the button to watch on Jetflix app.</p>
+              <h2 className="card-title">Nome do Produto</h2>
+              <p>preço</p>
               <div className="card-actions justify-end">
-              <button className="btn btn-primary">Watch</button>
+              <button className="btn btn-primary">Adicionar ao carrinho</button>
               </div>
           </div>
       </div>
   </div>
-=======
-    return <div>
-        <div className="card card-side bg-base-100 shadow-xl">
-            <figure>
-                <img
-                src=""
-                alt="Movie" />
-            </figure>
-            <div className="card-body">
-                <h2 className="card-title">New movie is released!</h2>
-                <p>Click the button to watch on Jetflix app.</p>
-                <div className="card-actions justify-end">
-                <button className="btn btn-primary">Watch</button>
-                </div>
-            </div>
-        </div>
-    </div>
->>>>>>> d443600 (qualquer coisa)
 }
 
 export default ProductCard

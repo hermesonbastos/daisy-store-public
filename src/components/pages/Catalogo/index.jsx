@@ -2,7 +2,7 @@ import ProductCard from '../../ProductCard/index';
 import './styles.css';
 
 const Catalogo = () => {
-  return <div>
+  return <div className='catalogo'>
     Catalogo
     <ProductCard/>
   </div>
