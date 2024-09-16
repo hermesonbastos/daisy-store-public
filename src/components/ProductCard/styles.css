@@ -1,0 +1,18 @@
+.card{
+    background-color: var(--daisy-secondary);
+}
+
+.catalogo-card{
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.btn-primary{
+    background-color: var(--daisy-primary);
+    color: var(--daisy-secondary);
+}
+
+.card-title{
+    font-size: 25px;
+}
